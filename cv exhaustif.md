@@ -37,3 +37,12 @@ P5/Wordpress/Shopify
 ##### Bureautique
 LibreOffice - Microsoft Office  
 Outils internet courants 
+##### Marketing digital
+SEO/SEA
+Marketing Automation
+(Marketing Cloud)
+UI/UX
+Rédaction Web
+Audit de sites
+##### Anglais
+C1 (score TOEIC 965) 
