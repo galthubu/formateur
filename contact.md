@@ -4,3 +4,5 @@ order: 4
 in_menu: true
 ---
 Pour me contacter : 
+linkedin
+mail 
