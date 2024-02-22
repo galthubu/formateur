@@ -13,7 +13,7 @@ Formateur freelance depuis 2022, ma pratique de la médiation numérique et de l
 
 ### Mais pourquoi formateur "numérique" ?
 
-Très bonne question. Et je me remercie de l'avoir posée (~~pas taper~~). J'aurais tout à fait pu titrer "formateur informatique" et ça aurait pu être pareil. Mais j'aime bien jouer sur les mots, ou avec eux, et m'efforcer d'être précis.
+Très bonne question. Et je me remercie de l'avoir posée (~~pas taper~~). J'aurais tout à fait pu titrer "formateur informatique" et ça aurait pu être pareil, ou presque. Mais j'aime bien jouer sur les mots, ou avec eux, et m'efforcer d'être précis.
 
 Bien que je sois passé par la case (et un diplôme, cf [CV](https://galthubu.github.io/formateur/cv%20exhaustif.html)) de _Maintenance Informatique et d'Assistance Utilisateurs_, je me présente en général à mes apprenants avant tout comme un **utilisateur** d'outils numériques. Je ne suis pas spécialement technophile. Mais j'aime faire "des trucs" avec le numérique (livres, dessins, BD, sons, musique, vidéos, jeux vidéos en gestation, fictions interactives, PAO, collages, bidouilles variées...). Si je peux certes encadrer des TP de bases de configurations de serveurs (en fonction des formations ça peut être du Windows Server (que je ne porte pas forcément dans mon cœur, soyons honnête, mais c'est un outil intéressant et parfois une obligation pour certains référentiels), dans d'autres formations, ça pourra être des TP de mise en place de LAMP pour faire comprendre un peu (mieux) les bases du web (plus d'infos sur [ici pour mes méthodes et sujets](https://galthubu.github.io/formateur/mes%20methodes.html)). 
 
