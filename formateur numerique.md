@@ -7,7 +7,7 @@ in_menu: true
 
 Vous cherchez un formateur numérique capable de s'adapter à de multiples publics et sujets ? Un humain avant tout capable d'entendre son interlocuteur et d'adapter son discours et ses interventions aux spécificités de chacun ?
 
-Si tel est le cas, discutons. LIEN CONTACT
+Si tel est le cas, [discutons](https://galthubu.github.io/formateur/contact.html).
 
 Formateur freelance depuis 2022, ma pratique de la médiation numérique et de la transmission de savoir remonte toutefois à _légèrement_ plus.
 
@@ -29,6 +29,6 @@ On va le faire court, de bidouilles en expérimentations, je suis devenu touche-
 
 ### La nécessité d'un diplôme
 
-On bidouille, on expérimente et on avance, mais ça ne donne pas forcément accès à des emplois épanouissants. Alors on passe un diplôme pour récupérer au passage une légitimité et les notions manquantes dans un parcours autodidacte (les notions réseaux par exemple pour moi, une petite révélation, merci à Cédric Lepage d'avoir démystifier et limpidifier ces notions dans ma petite tête).
+On bidouille, on expérimente et on avance, mais ça ne donne pas forcément accès à des emplois épanouissants. Alors on passe un diplôme pour récupérer au passage une légitimité et les notions manquantes dans un parcours autodidacte (les notions réseaux par exemple pour moi, une petite révélation, merci à [Cédric Lepage](https://conferences-gesticulees.net/conferences/capitalisme-20/) d'avoir démystifier et _limpidifier_ ces notions qui me paraissait absconses jusque là). C'est à la fin de cette période de formation que j'ai pu commencer à me professionnaliser dans ma pratique de la médiation numérique via un stage très instructif en EPN (tout en gérant les incidents informatiques du parc hétérogène d'[Espace 19](https://espace19.org/).
 
 ### Développeur non pratiquant 
