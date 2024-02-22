@@ -38,6 +38,8 @@ Récemment, souhaitant introduire le _markdown_ auprès de mes apprenants _Techn
 
 Toujours dans cette idée, cette envie, ce sacerdoce voire cette nécessité de ne pas participer à la fabrication d'utilisateurs captifs, je privilégie dans mes interventions les technologies open-source et les logiciels libres. J'ai ainsi pu faire découvrir et installer des outils tels que NextCloud, et quelques plugins pour leur démontrer par la pratique que d'autres clouds que ceux des GAFAMs sont possibles. 
 
+La raison en est très simple : outre le fait que beaucoup de valeurs du Libre me parlent, je ne souhaite pas que mes apprenants, si je les formais sur des technologies ou logiciels propriétaires se retrouvent bloqués ensuite devant un dilemme moral : dois-je pirater ou acheter le logiciel _machin_ que j'avais bien aimé utiliser pendant la formation ?
+
 ### Des idées ?
 
 Si vous avez d'autres idées d'outils ou d'ateliers, ou même des besoins particuliers et que mes méthodes et valeurs vous intéressent, n'hésitez pas à [me contacter](https://galthubu.github.io/formateur/contact.html). 
