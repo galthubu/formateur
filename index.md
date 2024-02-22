@@ -1,6 +1,6 @@
 ---
 title: "Formateur numérique"
-order: 1
+order: 0
 in_menu: true
 ---
 ### Deux ans sur le papier ; vingt-cinq dans la réalité

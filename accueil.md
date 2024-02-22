@@ -1,6 +1,6 @@
 ---
 title: "Accueil"
-order: 0
+order: 1
 in_menu: true
 ---
 ## Vous cherchez un formateur numérique ?
