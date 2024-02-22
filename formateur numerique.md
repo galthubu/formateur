@@ -1,5 +1,5 @@
 ---
-title: "Formateur nuimérique"
+title: "Formateur numérique"
 order: 1
 in_menu: true
 ---
