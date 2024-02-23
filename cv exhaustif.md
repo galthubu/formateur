@@ -5,46 +5,31 @@ in_menu: true
 ---
 <table>
   <caption>
-    Front-end web developer course 2021
+### Compétences
   </caption>
-  <thead>
+   <tbody>
     <tr>
-      <th scope="col">Person</th>
-      <th scope="col">Most interest in</th>
-      <th scope="col">Age</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th scope="row">Chris</th>
-      <td>HTML tables</td>
-      <td>22</td>
+      <th scope="col">#### Soft skills</th>
+      <th scope="col">Hexadécimal</th>
+      <th scope="col">HSLa</th>
+      <th scope="col">RGBa</th>
     </tr>
     <tr>
-      <th scope="row">Dennis</th>
-      <td>Web accessibility</td>
-      <td>45</td>
+      <th scope="row">Turquoise</th>
+      <td><code>#51F6F6</code></td>
+      <td><code>hsla(180, 90%, 64%, 1)</code></td>
+      <td><code>rgba(81, 246, 246, 1)</code></td>
     </tr>
     <tr>
-      <th scope="row">Sarah</th>
-      <td>JavaScript frameworks</td>
-      <td>29</td>
-    </tr>
-    <tr>
-      <th scope="row">Karen</th>
-      <td>Web performance</td>
-      <td>36</td>
+      <th scope="row">Ocre</th>
+      <td><code>#F6BC57</code></td>
+      <td><code>hsla(38, 90%, 65%, 1)</code></td>
+      <td><code>rgba(246, 188, 87, 1)</code></td>
     </tr>
   </tbody>
-  <tfoot>
-    <tr>
-      <th scope="row" colspan="2">Average age</th>
-      <td>33</td>
-    </tr>
-  </tfoot>
 </table>
 
-### Compétences
+
 #### Soft skills
 Relationnel aisé  
 Bonne capacité d'écoute  
