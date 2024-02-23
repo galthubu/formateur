@@ -10,33 +10,36 @@ in_menu: true
    <tbody>
     <tr>
       <th scope="col">#### Soft skills</th>
-      <th scope="col"></th>
-      <th scope="col"></th>
+      <th scope="col">#### Hard skills</th>
     </tr>
     <tr>
-      <th scope="row">Turquoise</th>
-      <td><code>#51F6F6</code></td>
-      <td><code>hsla(180, 90%, 64%, 1)</code></td>
-      <td><code>rgba(81, 246, 246, 1)</code></td>
+      <td>Relationnel aisé</td>
+      <td></td>
     </tr>
     <tr>
-      <th scope="row">Ocre</th>
-      <td><code>#F6BC57</code></td>
-      <td><code>hsla(38, 90%, 65%, 1)</code></td>
-      <td><code>rgba(246, 188, 87, 1)</code></td>
+      <td>Bonne capacité d'écoute</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Esprit de synthèse</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Adaptabilité</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Excellentes capacités rédactionnelles (documentations techniques ou tous publics pour formation utilisateur final)</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Patience & Pédagogie</td>
+      <td></td>
     </tr>
   </tbody>
 </table>
 
 
-#### Soft skills
-Relationnel aisé  
-Bonne capacité d'écoute  
-Esprit de synthèse  
-Adaptabilité  
-Excellentes capacités rédactionnelles  
-(documentations techniques ou tous publics pour formation utilisateur final)  
-Patience & Pédagogie  
 #### Hard skills
 _Grammar Nazi_  
 ##### PAO et Images Fixes
