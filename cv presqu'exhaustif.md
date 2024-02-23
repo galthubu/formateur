@@ -4,69 +4,82 @@ order: 3
 in_menu: true
 ---
 <table>
-  <caption>
-### Compétences
-  </caption>
+  <colgroup span="3">Compétences</colgroup>
    <tbody>
     <tr>
-      <th scope="col">Soft skills</th>
-      <th scope="col">Hard skills</th>
+      <th scope="col">Images et PAO</th>
+      <th scope="col">Bureautique</th>
+      <th scope="col">Développement</th>
     </tr>
     <tr>
-      <td>Relationnel aisé</td>
-      <th>PAO et Images Fixes</th>
-    </tr>
-    <tr>
-      <td>Bonne capacité d'écoute</td>
-      <td>Photoshop</td>
-    </tr>
-    <tr>
-      <td>Esprit de synthèse</td>
-      <td>StableDiffusion</td>
-    </tr>
-    <tr>
-      <td>Adaptabilité</td>
-      <td>Scribus</td>
-    </tr>
-    <tr>
-      <td>Excellentes capacités rédactionnelles <br>(documentations techniques ou tous publics pour formation utilisateur final)</td>
       <td>Gimp</td>
+      <td>LibreOffice</td>
+      <td>HTML/CSS</td>
     </tr>
     <tr>
-      <td>Patience & Pédagogie</td>
+      <td>Scribus</td>
+      <td>Office</td>
+      <td>JS/P5</td>
+    </tr>
+    <tr>
+      <td>Photoshop</td>
+      <td>Outils internet courants</td>
+      <td>WordPress/Shopify</td>
+    </tr>
+    <tr>
+      <td>StableDiffusion</td>
+      <td>blank</td>
+      <td>blank</td>
+    </tr>
+    <tr>
       <td>Krita</td>
+      <td>blank</td>
+      <td>blank</td>
     </tr>
     <tr>
-      <th scope="col">Vidéo</th>
-      <td>BDNF</td>
+      <td>blank</td>
+      <td>blank</td>
+      <td>blank</td>
     </tr>
     <tr>
-      <td>Shotcut</td>
-      <td>Inkscape</td>
+      <td>blank</td>
+      <td>blank</td>
+      <td>blank</td>
     </tr>
     <tr>
-      <td>KDenlive</td>
-      <td>Krita</td>
+      <td>blank</td>
+      <td>blank</td>
+      <td>blank</td>
     </tr>
     <tr>
-      <td>Premiere</td>
-      <td>Krita</td>
+      <td>blank</td>
+      <td>blank</td>
+      <td>blank</td>
     </tr>
     <tr>
-      <td>AfterEffects</td>
-      <td>Krita</td>
+      <td>blank</td>
+      <td>blank</td>
+      <td>blank</td>
     </tr>
     <tr>
-      <td>Patience & Pédagogie</td>
-      <td>Krita</td>
+      <td>blank</td>
+      <td>blank</td>
+      <td>blank</td>
     </tr>
     <tr>
-      <td>Patience & Pédagogie</td>
-      <td>Krita</td>
+      <td>blank</td>
+      <td>blank</td>
+      <td>blank</td>
     </tr>
     <tr>
-      <td>Patience & Pédagogie</td>
-      <td>Krita</td>
+      <td>blank</td>
+      <td>blank</td>
+      <td>blank</td>
+    </tr>
+    <tr>
+      <td>blank</td>
+      <td>blank</td>
+      <td>blank</td>
     </tr>
   </tbody>
 </table>
