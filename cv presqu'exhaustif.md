@@ -122,8 +122,11 @@ in_menu: true
 > médiation numérique occasionnelle, formation utilisateurs final lors d'une migration de parc mobile
 
 2009-2010 : Assistant de réalisation artistique, "Itineracy" de l'artiste Tania Ruiz (Malmö/Paris)
-> via AfterEffects, stabilisation de travelings horizontaux filmés depuis trains, bâteaux
+> via AfterEffects, stabilisation de travelings horizontaux filmés dans le monde entier depuis trains et bateaux
 
+2006-2009 : Assistant monteur, Ichneumon Productions et Métazone TV (Vincennes/Paris)
+> - montage de PADs dont celui de 9h pour la Nuit Blanche 2007 "Icônoclaste" de la mairie du 4e arrondissement de Paris
+> - montage du sujet "Ben parle de la Demeure du Chaos de Thierry Ehrmann"
 
 1999 : Composition d'une partie de la musique de scène de "Toupifolia", conte chorégraphique jeune public.
 
