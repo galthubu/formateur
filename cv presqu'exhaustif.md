@@ -8,39 +8,39 @@ in_menu: true
   <colgroup span="3"></colgroup>
    <tbody>
     <tr>
-      <th scope="col">Images et PAO</th>
+      <th scope="col" class="parm">Images et PAO</th>
       <th scope="col">Bureautique</th>
-      <th scope="col">Développement</th>
+      <th scope="col" class="parm">Développement</th>
     </tr>
     <tr>
-      <td>Gimp</td>
+      <td class="parm">Gimp</td>
       <td>LibreOffice</td>
-      <td>HTML/CSS</td>
+      <td class="parm">HTML/CSS</td>
     </tr>
     <tr>
-      <td>Scribus</td>
+      <td class="parm">Scribus</td>
       <td>Office</td>
-      <td>JS/P5</td>
+      <td class="parm">JS/P5</td>
     </tr>
     <tr>
-      <td>Photoshop</td>
+      <td class="parm">Photoshop</td>
       <td>Outils internet courants</td>
-      <td>WordPress/Shopify</td>
+      <td class="parm">WordPress/Shopify</td>
     </tr>
     <tr>
-      <td>StableDiffusion</td>
+      <td class="parm">StableDiffusion</td>
       <th>Marketing Digital</th>
-      <td>Twine</td>
+      <td class="parm">Twine</td>
     </tr>
     <tr>
-      <td>Krita</td>
+      <td class="parm">Krita</td>
       <td>SEO/SEA</td>
-      <td>Renpy</td>
+      <td class="parm">Renpy</td>
     </tr>
     <tr>
-      <td>BDNF</td>
+      <td class="parm">BDNF</td>
       <td>Marketing Automation</td>
-      <td>Godot/Dialogic</td>
+      <td class="parm">Godot/Dialogic</td>
     </tr>
     <tr>
       <th>Vidéo</th>
