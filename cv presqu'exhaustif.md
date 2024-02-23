@@ -29,7 +29,7 @@ in_menu: true
       <td></td>
     </tr>
     <tr>
-      <td>Excellentes capacités rédactionnelles (documentations techniques ou tous publics pour formation utilisateur final)</td>
+      <td>Excellentes capacités rédactionnelles <br>(documentations techniques ou tous publics pour formation utilisateur final)</td>
       <td></td>
     </tr>
     <tr>
