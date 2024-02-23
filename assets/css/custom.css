@@ -5,3 +5,7 @@
 footer{
     visibility: hidden;
 }
+
+td {
+  text-align: center;
+}
