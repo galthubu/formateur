@@ -63,12 +63,12 @@ in_menu: true
       <td>Gestion de projets</td>
     </tr>
     <tr>
-      <th>Anglais</th>
+      <th class="parm">Anglais</th>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>C1 (score TOEIC 965)</td>
+      <td class="parm">C1 (score TOEIC 965)</td>
       <td></td>
       <td></td>
     </tr>
