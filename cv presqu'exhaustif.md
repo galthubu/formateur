@@ -75,13 +75,21 @@ in_menu: true
   </tbody>
 </table>
 
+### Formations
 
+**2021-2022 - Bachelor "Chef de projet web et stratégies digitales" (Niveau II)**  
+oCCigène Formations, Villefontaine  
+**2017-2018 - "Coding Academy", Développeur Web (Niveau III)**
+Epitech, Lyon  
+**2013-2014 - Titre Professionnel "Technicien d'Assistance Informatique" (Niveau IV)**  
+Doranco, Bagnolet  
+**2003-2008 - Licence d'Arts Plastiques (non obtenue)**  
+Université Paris VIII, Saint-Denis  
 
-
-Éditions
+### Éditions
 2001 - Tentative d'inventaire pour une cérémonie itérative
 2002 - Correspondance(s)
 2003 - Carnets du petit Hermann
 2004 - Playlist
 2004 - Chris Marker est une fiction
-2005 - Hybrion 3 
+2006 - Hybrion 2 
