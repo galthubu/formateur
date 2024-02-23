@@ -1,5 +1,5 @@
 ---
-title: "CV exhaustif"
+title: "CV presqu'exhaustif"
 order: 3
 in_menu: true
 ---
@@ -10,9 +10,8 @@ in_menu: true
    <tbody>
     <tr>
       <th scope="col">#### Soft skills</th>
-      <th scope="col">Hexadécimal</th>
-      <th scope="col">HSLa</th>
-      <th scope="col">RGBa</th>
+      <th scope="col"></th>
+      <th scope="col"></th>
     </tr>
     <tr>
       <th scope="row">Turquoise</th>
