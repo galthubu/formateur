@@ -77,7 +77,11 @@ in_menu: true
 
 ### Expériences professionnelles et associatives
 
-
+2022 à ce jour : Formateur numérique freelance  
+>Découverte des techniques de base de maintenance informatique
+> - Culture numérique, composants matériels, systèmes, logiciels, maintenance de base, installations serveurs, introduction réseau, machines virtuelles, linux, windows, notions de sécurité et bonnes pratiques de stratégie de sauvegarde...
+>Découverte de techniques informatiques
+> - Idem en rajoutant des parties développement, JS, P5, bidouilles HTML/CSS 
 
 ### Formations
 
