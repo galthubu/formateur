@@ -33,3 +33,7 @@ h3 {
 .pinkish {
   background-color: #dbb6d9;
 }
+
+.hidden {
+  visibility: hidden;
+}
