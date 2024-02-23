@@ -18,6 +18,10 @@ table {
   border: 1px solid black;
 }
 
+h1, h2 {
+  text-align: center;
+}
+
 h3 {
   color: black;
 }
