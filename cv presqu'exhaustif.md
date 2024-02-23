@@ -83,6 +83,14 @@ in_menu: true
 >Découverte de techniques informatiques
 > - Idem en rajoutant des parties développement, JS, P5, bidouilles HTML/CSS 
 
+2020 à ce jour : Président de l'association des Psaumes du hasard
+> Stratégie digitale (en fin de gestation), activités éditoriales (conception, construction et rédaction du site), relations auteurs, conseils stylistiques (dont _grammar nazi_), PAO, _design_ de certaines couvertures, conception des produits dérivés, relations extérieures...
+
+2021-2022 : Assistant chef de projet digital, April Courtage (Lyon) - stage  
+> Marketing digital, marketing automation, audit et préconisation dans la conception de newsletters, synthèse et compte-rendus d'entretiens courtiers, gestion et réalisation de modifications d'extranet, réalisation de pages web statiques  
+
+2018
+
 ### Formations
 
 **2021-2022 - Bachelor "Chef de projet web et stratégies digitales" (Niveau II)**  
