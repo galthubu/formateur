@@ -99,8 +99,8 @@ in_menu: true
 
 2018-2020 : Médiateur numérique et technicien de maintenance informatique, Bibliothèques de Vienne (Vienne)  
 > Conception, mise en œuvre et réalisation d'ateliers numériques pour tous types de public allant de l'initiation aux néophytes absolus des outils numériques de base jusqu'à des ateliers de perfectionnement de PAO (Scribus par exemple) en passant par des expérimentations de type "Labo d'introduction au développement de jeux vidéos" via médiations numériques autour de moteurs comme AGS, Renpy ou Twine.
-> Assistance utilisateurs pour les usagers de l'EPN ou les membres de l'équipe
-> Maintenance poste de travail, création d'utilisateurs LDAP 
+> - Assistance utilisateurs pour les usagers de l'EPN ou les membres de l'équipe
+> - Maintenance poste de travail, création d'utilisateurs LDAP, sauvegardes et vérifications, mises à jour systèmes et logicielles 
 
 ### Formations
 
