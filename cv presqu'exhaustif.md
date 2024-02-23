@@ -93,9 +93,25 @@ in_menu: true
 2020 à ce jour : Président de l'association des Psaumes du hasard
 > Stratégie digitale (en fin de gestation), activités éditoriales (conception, construction et rédaction du site), relations auteurs, conseils stylistiques (dont _grammar nazi_), PAO, _design_ de certaines couvertures, conception des produits dérivés, relations extérieures...
 
+2023 : Photographie plateau, Burning Sunset (Vienne)
+
+2023 : Médiateur numérique, Maison Pour Tous des Rancy (Lyon)
+> Expériences Numériques #29 : Conception, mise en œuvre et réalisation d'un atelier Stable-Diffusion pour tous publics : expliquer le fonctionnement de ces IA génératives et les tester, initiation au _prompt engineering_
+
+2022-2023 : Chargé de communication, JdLL (Journées du Logiciel Libre) (Lyon)
+> - Conception et réalisations de visuels, textes, affiches, flyers et mockups
+> - _Design_, conception et mise en œuvre de goodies (autocollants, hoodies, t-shirt, jeu de carte à collectionner)
+> - Participation au community management
+
+2022 : Médiateur numérique, Maison Pour Tous des Rancy (Lyon)
+> Expériences Numériques #28 : Conception, mise en œuvre et réalisation d'un atelier BDNF pour tous publics : ou comment créer une bande dessinée en quelques clics avec le corpus fourni ou ses propres images.
+
 2021-2022 : Assistant chef de projet digital, April Courtage (Lyon) - stage  
 > - Marketing digital, marketing automation, audit et préconisation dans la conception de newsletters, synthèse et compte-rendus d'entretiens courtiers, gestion et réalisation de modifications d'extranet, réalisation de pages web statiques  
 > - Atelier de remise à niveau Photoshop pour les membres de l'équipe
+
+2021 : Intervenant-conférencier, Maison Pour Tous des Rancy (Lyon)
+> Expériences Numériques #27 : intervention "Informaticus REX : doit-on subir le numérique ?". Retour d'expérience de simple utilisateur à technicien de maintenance et médiateur numérique : quelques réflexions et anecdotes autour de notre rapport au numérique et aux outils informatiques auxquels nous sommes confrontés chaque jour.
 
 2018-2020 : Médiateur numérique et technicien de maintenance informatique, Bibliothèques de Vienne (Vienne)  
 > - Conception, mise en œuvre et réalisation d'ateliers numériques pour tous types de public allant de l'initiation aux néophytes absolus des outils numériques de base jusqu'à des ateliers de perfectionnement de PAO (Scribus par exemple) en passant par des expérimentations de type "Labo d'introduction au développement de jeux vidéos" via médiations numériques autour de moteurs comme AGS, Renpy ou Twine.
