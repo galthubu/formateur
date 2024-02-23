@@ -9,52 +9,70 @@ in_menu: true
   </caption>
    <tbody>
     <tr>
-      <th scope="col">#### Soft skills</th>
-      <th scope="col">#### Hard skills</th>
+      <th scope="col">Soft skills</th>
+      <th scope="col">Hard skills</th>
     </tr>
     <tr>
       <td>Relationnel aisé</td>
-      <td></td>
+      <th>PAO et Images Fixes</th>
     </tr>
     <tr>
       <td>Bonne capacité d'écoute</td>
-      <td></td>
+      <td>Photoshop</td>
     </tr>
     <tr>
       <td>Esprit de synthèse</td>
-      <td></td>
+      <td>StableDiffusion</td>
     </tr>
     <tr>
       <td>Adaptabilité</td>
-      <td></td>
+      <td>Scribus</td>
     </tr>
     <tr>
       <td>Excellentes capacités rédactionnelles <br>(documentations techniques ou tous publics pour formation utilisateur final)</td>
-      <td></td>
+      <td>Gimp</td>
     </tr>
     <tr>
       <td>Patience & Pédagogie</td>
-      <td></td>
+      <td>Krita</td>
+    </tr>
+    <tr>
+      <th scope="col">Vidéo</th>
+      <td>BDNF</td>
+    </tr>
+    <tr>
+      <td>Shotcut</td>
+      <td>Inkscape</td>
+    </tr>
+    <tr>
+      <td>KDenlive</td>
+      <td>Krita</td>
+    </tr>
+    <tr>
+      <td>Premiere</td>
+      <td>Krita</td>
+    </tr>
+    <tr>
+      <td>AfterEffects</td>
+      <td>Krita</td>
+    </tr>
+    <tr>
+      <td>Patience & Pédagogie</td>
+      <td>Krita</td>
+    </tr>
+    <tr>
+      <td>Patience & Pédagogie</td>
+      <td>Krita</td>
+    </tr>
+    <tr>
+      <td>Patience & Pédagogie</td>
+      <td>Krita</td>
     </tr>
   </tbody>
 </table>
 
 
-#### Hard skills
-_Grammar Nazi_  
-##### PAO et Images Fixes
-Photoshop  
-StableDiffusion  
-Scribus  
-Gimp  
-Krita  
-BDNF  
-Inkscape  
-##### Vidéo
-Shotcut  
-KDenlive  
-Premier  
-AfterEffects  
+
 ##### Accompagnement digital
 Conception et mise en œuvre d'ateliers numériques  
 Connaissances en ergonomie web et UX design  
