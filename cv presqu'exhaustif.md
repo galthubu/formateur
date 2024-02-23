@@ -9,22 +9,22 @@ in_menu: true
    <tbody>
     <tr>
       <th scope="col" class="parm">Images et PAO</th>
-      <th scope="col">Bureautique</th>
+      <th scope="col" class="paleblue">Bureautique</th>
       <th scope="col" class="parm">Développement</th>
     </tr>
     <tr>
       <td class="parm">Gimp</td>
-      <td>LibreOffice</td>
+      <td class="paleblue">LibreOffice</td>
       <td class="parm">HTML/CSS</td>
     </tr>
     <tr>
       <td class="parm">Scribus</td>
-      <td>Office</td>
+      <td class="paleblue">Office</td>
       <td class="parm">JS/P5</td>
     </tr>
     <tr>
       <td class="parm">Photoshop</td>
-      <td>Outils internet courants</td>
+      <td class="paleblue">Outils internet courants</td>
       <td class="parm">WordPress/Shopify</td>
     </tr>
     <tr>
@@ -43,24 +43,24 @@ in_menu: true
       <td class="parm">Godot/Dialogic</td>
     </tr>
     <tr>
-      <th>Vidéo</th>
+      <th class="paleblue">Vidéo</th>
       <td>(Marketing Cloud)</td>
-      <th>Accompagnement digital</th>
+      <th class="paleblue">Accompagnement digital</th>
     </tr>
     <tr>
-      <td>Shotcut</td>
+      <td class="paleblue">Shotcut</td>
       <td>UI/UX</td>
-      <td>Conception et mise en œuvre d'ateliers numériques</td>
+      <td class="paleblue">Conception et mise en œuvre d'ateliers numériques</td>
     </tr>
     <tr>
-      <td>AfterEffects</td>
+      <td class="paleblue">AfterEffects</td>
       <td>Rédaction Web</td>
-      <td>Connaissances en ergonomie web et UX design</td>
+      <td class="paleblue">Connaissances en ergonomie web et UX design</td>
     </tr>
     <tr>
-      <td>Kdenlive</td>
+      <td class="paleblue">Kdenlive</td>
       <td>Audit de sites</td>
-      <td>Gestion de projets</td>
+      <td class="paleblue">Gestion de projets</td>
     </tr>
     <tr>
       <th class="parm">Anglais</th>
