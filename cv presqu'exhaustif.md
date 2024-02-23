@@ -78,8 +78,10 @@ in_menu: true
 ### Expériences professionnelles et associatives
 
 2022 à ce jour : Formateur numérique freelance  
+> Titre Professionnel "Technicien d'Assistance Informatique"  
+> - Culture numérique, histoire et étymologies, réalités métiers, composants matériels, systèmes et logiciels, maintenance, techniques et outils de diagnostic, méthodologie de résolution de panne, itérations de TP Windows Server 2012, 2019 et 2022, manipulation de machines virtuelles windows, serveurs et/dont linux, installation et désinstallation d'applications, de pilotes, configuration d'AD, de partage réseaux, de DHCP, DNS, etc...
 >Découverte des techniques de base de maintenance informatique
-> - Culture numérique, composants matériels, systèmes, logiciels, maintenance de base, installations serveurs, introduction réseau, machines virtuelles, linux, windows, notions de sécurité et bonnes pratiques de stratégie de sauvegarde...
+> - Culture numérique, histoire et étymologies, composants matériels, systèmes, logiciels, maintenance de base, installations serveurs, introduction réseau, machines virtuelles, linux, windows, notions de sécurité et bonnes pratiques de stratégie de sauvegarde...
 >Découverte de techniques informatiques
 > - Idem en rajoutant des parties développement, JS, P5, bidouilles HTML/CSS 
 
