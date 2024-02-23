@@ -94,8 +94,8 @@ in_menu: true
 > Stratégie digitale (en fin de gestation), activités éditoriales (conception, construction et rédaction du site), relations auteurs, conseils stylistiques (dont _grammar nazi_), PAO, _design_ de certaines couvertures, conception des produits dérivés, relations extérieures...
 
 2021-2022 : Assistant chef de projet digital, April Courtage (Lyon) - stage  
-> Marketing digital, marketing automation, audit et préconisation dans la conception de newsletters, synthèse et compte-rendus d'entretiens courtiers, gestion et réalisation de modifications d'extranet, réalisation de pages web statiques  
-> Atelier de remise à niveau Photoshop pour les membres de l'équipe
+> - Marketing digital, marketing automation, audit et préconisation dans la conception de newsletters, synthèse et compte-rendus d'entretiens courtiers, gestion et réalisation de modifications d'extranet, réalisation de pages web statiques  
+> - Atelier de remise à niveau Photoshop pour les membres de l'équipe
 
 2018-2020 : Médiateur numérique et technicien de maintenance informatique, Bibliothèques de Vienne (Vienne)  
 > Conception, mise en œuvre et réalisation d'ateliers numériques pour tous types de public allant de l'initiation aux néophytes absolus des outils numériques de base jusqu'à des ateliers de perfectionnement de PAO (Scribus par exemple) en passant par des expérimentations de type "Labo d'introduction au développement de jeux vidéos" via médiations numériques autour de moteurs comme AGS, Renpy ou Twine.
