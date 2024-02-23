@@ -75,6 +75,10 @@ in_menu: true
   </tbody>
 </table>
 
+### Expériences professionnelles et associatives
+
+
+
 ### Formations
 
 **2021-2022 - Bachelor "Chef de projet web et stratégies digitales" (Niveau II)**  
@@ -91,11 +95,11 @@ Université Paris VIII, Saint-Denis
 2002 - Correspondance(s)  
 2004 - Carnets du petit Hermann  
 2005 - Adjectifs processifs  
-2005 - De la photographie à 4 dimensions
+2005 - De la photographie à 4 dimensions  
 2006 - Playlist  
 2004 - Chris Marker est une fiction  
 2006 - Hybryon 2  
-2006 - À la Roussel (sans K)
+2006 - À la Roussel (sans K)  
 2012 - OBscène OBjet  
 2014 - Du technicien informatique comme marabout moderne  
 2016 - No Strings Attached  
@@ -103,11 +107,11 @@ Université Paris VIII, Saint-Denis
 
 ### Courts-métrages
 2002 - Théo AM (don't blink)  
-2003 - Une charogne
-2003 - Pornography 1
+2003 - Une charogne  
+2003 - Pornography 1  
 2004 - Piotr (d'après des photos de [Valery Assénat](https://www.instagram.com/valeryassenat/))  
 2005 - (t)éléphantaisie (brie sait)  
-2006 - R comme...
-2006 - Confusion
+2006 - R comme...  
+2006 - Confusion  
 2007 - De la surface de Dieu (mise en image du texte intégral d'Alfred Jarry)  
 2007 - Théo AM (version 2 part 1) 
