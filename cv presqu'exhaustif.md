@@ -112,6 +112,8 @@ Epitech, Lyon
 Doranco, Bagnolet  
 **2003-2008 - Licence d'Arts Plastiques (non obtenue)**  
 Université Paris VIII, Saint-Denis  
+**1991-1998 - Classe de composition de musique électroacoustique**  
+Conservatoire de Musique et de Danse, Nanterre
 
 ### Auto-Éditions
 2001 - Tentative d'inventaire pour une cérémonie itérative  
