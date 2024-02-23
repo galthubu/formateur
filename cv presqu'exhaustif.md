@@ -3,8 +3,9 @@ title: "CV presqu'exhaustif"
 order: 3
 in_menu: true
 ---
+<h3>Compétences</h3>
 <table>
-  <colgroup span="3">Compétences</colgroup>
+  <colgroup span="3"></colgroup>
    <tbody>
     <tr>
       <th scope="col">Images et PAO</th>
@@ -28,37 +29,37 @@ in_menu: true
     </tr>
     <tr>
       <td>StableDiffusion</td>
-      <td>blank</td>
-      <td>blank</td>
+      <th>Marketing Digital</th>
+      <td>Twine</td>
     </tr>
     <tr>
       <td>Krita</td>
+      <td>SEO/SEA</td>
+      <td>Renpy</td>
+    </tr>
+    <tr>
+      <th>Vidéo</th>
+      <td>Marketing Automation</td>
+      <td>Godot/Dialogic</td>
+    </tr>
+    <tr>
+      <td>Shotcut</td>
+      <td>(Marketing Cloud)</td>
       <td>blank</td>
+    </tr>
+    <tr>
+      <td>Kdenlive</td>
+      <td>UI/UX</td>
+      <td>blank</td>
+    </tr>
+    <tr>
+      <td>AfterEffects</td>
+      <td>Rédaction Web</td>
       <td>blank</td>
     </tr>
     <tr>
       <td>blank</td>
-      <td>blank</td>
-      <td>blank</td>
-    </tr>
-    <tr>
-      <td>blank</td>
-      <td>blank</td>
-      <td>blank</td>
-    </tr>
-    <tr>
-      <td>blank</td>
-      <td>blank</td>
-      <td>blank</td>
-    </tr>
-    <tr>
-      <td>blank</td>
-      <td>blank</td>
-      <td>blank</td>
-    </tr>
-    <tr>
-      <td>blank</td>
-      <td>blank</td>
+      <td>Audit de sites</td>
       <td>blank</td>
     </tr>
     <tr>
