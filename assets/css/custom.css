@@ -7,11 +7,15 @@ footer{
 }
 
 th, td {
-  padding: 15px;
+  padding: 10vh;
   text-align: center;
 }
 
 table {
   margin-left: auto;
   margin-right: auto;
+}
+
+h3 {
+  color: red;
 }
