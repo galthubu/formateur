@@ -100,10 +100,22 @@ in_menu: true
 2018-2020 : Médiateur numérique et technicien de maintenance informatique, Bibliothèques de Vienne (Vienne)  
 > - Conception, mise en œuvre et réalisation d'ateliers numériques pour tous types de public allant de l'initiation aux néophytes absolus des outils numériques de base jusqu'à des ateliers de perfectionnement de PAO (Scribus par exemple) en passant par des expérimentations de type "Labo d'introduction au développement de jeux vidéos" via médiations numériques autour de moteurs comme AGS, Renpy ou Twine.
 > - Médiations culturelles autour du numérique et de la fiction interactive, histoire(s) du jeu vidéo, démonstration et exposition d’œuvres du patrimoine vidéoludique
-> - Recueil, prises de vue, réalisation et montage de témoignages de viennois et d'habitant du bassin viennois autour du jeu pour l'exposition "Jeu me souviens"
+> - Recueil, prises de vue, réalisation et montage de témoignages de viennois et d'habitants du bassin viennois autour du jeu pour l'exposition participative "Jeu me souviens"
 > - Prises de vue et montage de _booktubes_ par les collégiens du bassin viennois participant au prix Alizée, prix littéraire jeune public local
 > - Assistance utilisateurs pour les usagers de l'EPN ou les membres de l'équipe
 > - Maintenance poste de travail, création d'utilisateurs LDAP, sauvegardes et vérifications, mises à jour systèmes et logicielles 
+
+2017-2018 : Technicien informatique, Expectra (Lyon)
+> Missions diverses de technicien de proximité : câbles et recâblages de postes et de parcs, réaménagements de sites (physiques) et câble management...
+
+2017 : Intégrateur/Développeur Web, Unyty (Lyon) - stage
+> Débug JS, corrections CSS
+
+2015-2016 : Technicien informatique de proximité (niveau 1-2), BP2I via ConsortNT (Levallois)
+> Déploiement d'une solution d'authentification par carte à puces et formation utilisateur final, _run_ courant, gestion des mots de passe utilisateur, diagnostic et résolution d'incidents, remasterisation de postes, configuration d'iPhones selon la documentation de l'infrastructure, rédaction de guides pour les membres de l'équipe IT, assistance utilisateur en présentiel ou à distance, livraison et installation de matériel, recette utilisateur, médiation numérique
+
+2014 : Médiateur numérique et technicien de maintenance informatique
+> 
 
 ### Formations
 
