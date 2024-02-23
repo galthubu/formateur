@@ -17,17 +17,17 @@ que l'on pourrait traduire ainsi :
 > "Si je ne sais pas que je ne sais pas, je pense que je sais.
 Si je ne sais pas que je sais, je pense que je ne sais pas."
 
-Mes apprenants ne comprennent pas forcément tout de suite pourquoi je leur donne cette citation. Mais sur des formations longues, je leur remets la _slide_ parfois à un moment pertinent. Des yeux s'éclairent, des regards s'illuminent, des sourires apparaissent en même temps qu'un hochement de tête se laisse apercevoir. Je ne dis pas que ça marche sur tous les apprenants que j'ai eus jusqu'à présent. 
+Mes apprenants ne comprennent pas forcément tout de suite pourquoi je leur donne cette citation. Mais sur des formations longues, je leur remets la _slide_ parfois à un moment pertinent. Des yeux s'éclairent, des regards s'illuminent, des sourires apparaissent en même temps qu'un hochement de tête se laisse apercevoir.
 
 ### Transversalité
 
-Au-delà des aspects techniques assez classiques dans les formations que j'ai pu animer (comment fonctionne un ordinateur, ses composants, son OS, les logiciels, etc), j'aime bien aussi faire des TP qui ont l'air de récréations. En fonction des envies et centres d'intérêts des apprenants, ça peut être prendre en main des fonctions de base de Gimp ou Scribus, explorer LibreOffice, le comparer à Office, les forcer à se confronter à des interfaces inconnues en repérant davantage les fonctionnalités que les emplacements dans une interface ou une autre. Mon but est de faire tout, sauf des utilisateurs captifs.
+Au-delà des aspects techniques assez classiques dans les formations que j'ai pu animer (comment fonctionne un ordinateur, ses composants, son OS, les logiciels, etc), j'aime bien aussi faire des TP qui ont l'air de récréations. En fonction des envies et centres d'intérêts des apprenants, ça peut être prendre en main des fonctions de base de Gimp ou Scribus, explorer LibreOffice, le comparer à Office, les forcer à se confronter à des logiciels et interfaces inconnues en repérant davantage les fonctionnalités que les emplacements dans une interface ou une autre. Mon but est de faire tout, sauf des utilisateurs captifs.
 
 ### Outils courants
 
 Je me sers beaucoup de VM. Ça permet de tester de multiples systèmes, de nombreuses applications, de faire communiquer des VMs entre elles (de donc pratiquer des fondamentaux réseaux), démystifier les distributions Linux ("ah non monsieur, c'est trop dur Linux il paraît" ; quelques semaines plus tard, ce sont eux qui me parlaient de distributions que je n'avais jamais croisées et on les testait ensemble).
 
-J'ai pu aussi proposer la librairie P5 (sur la suggestion d'un ami LIEN?) qui peut être un très bon outil pédagogique pour approcher dans un JavaScript simplifié les éléments de base de tout langage informatique (boucles, variables, conditions) et pousser plus loin (jusqu'à la programmation orientée objet).
+J'ai pu aussi proposer la librairie [P5](https://p5js.org/) à des futurs peut-être aspirants dev (merci [Hexaltation](https://hexaltation.org/)). Un très bon outil pédagogique pour approcher dans un JavaScript simplifié les éléments de base de tout langage informatique (boucles, variables, conditions) et pousser plus loin (jusqu'à la programmation orientée objet) avec un résultat graphique instantané.
 
 Récemment, souhaitant introduire le _markdown_ auprès de mes apprenants _Techniciens d'Assistance Informatique_, j'ai pu découvrir [Scribouilli](https://scribouilli.org/), mini-CMS avec lequel j'ai pu rédiger et mettre en ligne en très peu de clics ce site. L'intérêt pédagogique est triple :
 - introduction au _markdown_ et à la notion de syntaxe et de balise
@@ -36,7 +36,7 @@ Récemment, souhaitant introduire le _markdown_ auprès de mes apprenants _Techn
 
 ### Sensibilité libriste
 
-Toujours dans cette idée, cette envie, ce sacerdoce voire cette nécessité de ne pas participer à la fabrication d'utilisateurs captifs, je privilégie dans mes interventions les technologies open-source et les logiciels libres. J'ai ainsi pu faire découvrir et installer des outils tels que NextCloud, et quelques plugins pour leur démontrer par la pratique que d'autres clouds que ceux des GAFAMs sont possibles. 
+Toujours dans cette idée, cette envie, ce sacerdoce voire cette nécessité de ne pas participer à la fabrication d'utilisateurs captifs, je privilégie dans mes interventions les technologies open-source et les logiciels libres. J'ai ainsi pu faire découvrir et faire installer à mes apprenants des outils tels que NextCloud, et quelques plugins pour leur démontrer par la pratique que d'autres clouds que ceux des GAFAMs sont possibles. 
 
 La raison en est très simple : outre le fait que beaucoup de valeurs du Libre me parlent, je ne souhaite pas que mes apprenants, si je les formais sur des technologies ou logiciels propriétaires se retrouvent bloqués ensuite devant un dilemme moral : dois-je pirater ou acheter le logiciel _machin_ que j'avais bien aimé utiliser pendant la formation ?
 
