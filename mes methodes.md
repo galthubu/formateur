@@ -17,7 +17,7 @@ que l'on pourrait traduire ainsi :
 > "Si je ne sais pas que je ne sais pas, je pense que je sais.
 Si je ne sais pas que je sais, je pense que je ne sais pas."
 
-Mes apprenants ne comprennent pas forcément tout de suite pourquoi je leur donne cette citation. Mais sur des formations longues, je leur remets la _slide_ parfois à un moment pertinent. Des yeux s'éclairent, des regards s'illuminent, des sourires apparaissent en même temps qu'un hochement de tête se laisse apercevoir.
+Mes apprenants ne comprennent pas forcément tout de suite pourquoi je leur donne cette citation. Mais sur des formations longues, je leur remets la _slide_ parfois à un moment pertinent, plus tardif. Des yeux s'éclairent alors, des regards s'illuminent et des sourires apparaissent en même temps qu'un hochement de tête se laisse percevoir.
 
 ### Transversalité
 
