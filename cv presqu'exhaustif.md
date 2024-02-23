@@ -64,30 +64,16 @@ in_menu: true
     </tr>
     <tr>
       <th>Anglais</th>
-      <td>blank</td>
-      <td>blank</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>C1 (score TOEIC 965)</td>
-      <td>blank</td>
-      <td>blank</td>
-    </tr>
-    <tr>
-      <td>blank</td>
-      <td>blank</td>
-      <td>blank</td>
-    </tr>
-    <tr>
-      <td>blank</td>
-      <td>blank</td>
-      <td>blank</td>
+      <td></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
-
-
-##### 
-
 
 
 
