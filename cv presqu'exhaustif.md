@@ -98,7 +98,10 @@ in_menu: true
 > - Atelier de remise à niveau Photoshop pour les membres de l'équipe
 
 2018-2020 : Médiateur numérique et technicien de maintenance informatique, Bibliothèques de Vienne (Vienne)  
-> Conception, mise en œuvre et réalisation d'ateliers numériques pour tous types de public allant de l'initiation aux néophytes absolus des outils numériques de base jusqu'à des ateliers de perfectionnement de PAO (Scribus par exemple) en passant par des expérimentations de type "Labo d'introduction au développement de jeux vidéos" via médiations numériques autour de moteurs comme AGS, Renpy ou Twine.
+> - Conception, mise en œuvre et réalisation d'ateliers numériques pour tous types de public allant de l'initiation aux néophytes absolus des outils numériques de base jusqu'à des ateliers de perfectionnement de PAO (Scribus par exemple) en passant par des expérimentations de type "Labo d'introduction au développement de jeux vidéos" via médiations numériques autour de moteurs comme AGS, Renpy ou Twine.
+> - Médiations culturelles autour du numérique et de la fiction interactive, histoire(s) du jeu vidéo, démonstration et exposition d’œuvres du patrimoine vidéoludique
+> - Recueil, prises de vue, réalisation et montage de témoignages de viennois et d'habitant du bassin viennois autour du jeu pour l'exposition "Jeu me souviens"
+> - Prises de vue et montage de _booktubes_ par les collégiens du bassin viennois participant au prix Alizée, prix littéraire jeune public local
 > - Assistance utilisateurs pour les usagers de l'EPN ou les membres de l'équipe
 > - Maintenance poste de travail, création d'utilisateurs LDAP, sauvegardes et vérifications, mises à jour systèmes et logicielles 
 
