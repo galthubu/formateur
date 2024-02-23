@@ -27,7 +27,7 @@ Au-delà des aspects techniques assez classiques dans les formations que j'ai pu
 
 Je me sers beaucoup de VM. Ça permet de tester de multiples systèmes, de nombreuses applications, de faire communiquer des VMs entre elles (de donc pratiquer des fondamentaux réseaux), démystifier les distributions Linux ("ah non monsieur, c'est trop dur Linux il paraît" ; quelques semaines plus tard, ce sont eux qui me parlaient de distributions que je n'avais jamais croisées et on les testait ensemble).
 
-J'ai pu aussi proposer la librairie [P5](https://p5js.org/) à des futurs peut-être aspirants dev (merci [Hexaltation](https://hexaltation.org/)). Un très bon outil pédagogique pour approcher dans un JavaScript simplifié les éléments de base de tout langage informatique (boucles, variables, conditions) et pousser plus loin (jusqu'à la programmation orientée objet) avec un résultat graphique instantané.
+J'ai pu aussi proposer la librairie [P5](https://p5js.org/) à des futurs peut-être aspirants dev (merci [Grégoire](https://gregoire.cutzach.com/references/) pour la suggestion). Un très bon outil pédagogique pour approcher dans un JavaScript simplifié les éléments de base de tout langage informatique (boucles, variables, conditions) et pousser plus loin (jusqu'à la programmation orientée objet) avec un résultat graphique instantané.
 
 Récemment, souhaitant introduire le _markdown_ auprès de mes apprenants _Techniciens d'Assistance Informatique_, j'ai pu découvrir [Scribouilli](https://scribouilli.org/), mini-CMS avec lequel j'ai pu rédiger et mettre en ligne en très peu de clics ce site. L'intérêt pédagogique est triple :
 - introduction au _markdown_ et à la notion de syntaxe et de balise
