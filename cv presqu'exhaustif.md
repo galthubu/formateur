@@ -64,13 +64,13 @@ in_menu: true
     </tr>
     <tr>
       <th class="parm">Anglais</th>
-      <td></td>
-      <td></td>
+      <td class="hidden"></td>
+      <td class="hidden"></td>
     </tr>
     <tr>
-      <td class="parm">C1 (score TOEIC 965)</td>
-      <td></td>
-      <td></td>
+      <td class="parm">C1<br>(score TOEIC 965)</td>
+      <td class="hidden"></td>
+      <td class="hidden"></td>
     </tr>
   </tbody>
 </table>
