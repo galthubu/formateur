@@ -38,37 +38,37 @@ in_menu: true
       <td>Renpy</td>
     </tr>
     <tr>
-      <th>Vidéo</th>
+      <td>BDNF</td>
       <td>Marketing Automation</td>
       <td>Godot/Dialogic</td>
     </tr>
     <tr>
-      <td>Shotcut</td>
+      <th>Vidéo</th>
       <td>(Marketing Cloud)</td>
-      <td>blank</td>
+      <th>Accompagnement digital</th>
     </tr>
     <tr>
-      <td>Kdenlive</td>
+      <td>Shotcut</td>
       <td>UI/UX</td>
-      <td>blank</td>
+      <td>Conception et mise en œuvre d'ateliers numériques</td>
     </tr>
     <tr>
       <td>AfterEffects</td>
       <td>Rédaction Web</td>
-      <td>blank</td>
+      <td>Connaissances en ergonomie web et UX design</td>
     </tr>
     <tr>
-      <td>blank</td>
+      <td>Kdenlive</td>
       <td>Audit de sites</td>
+      <td>Gestion de projets</td>
+    </tr>
+    <tr>
+      <th>Anglais</th>
+      <td>blank</td>
       <td>blank</td>
     </tr>
     <tr>
-      <td>blank</td>
-      <td>blank</td>
-      <td>blank</td>
-    </tr>
-    <tr>
-      <td>blank</td>
+      <td>C1 (score TOEIC 965)</td>
       <td>blank</td>
       <td>blank</td>
     </tr>
@@ -86,26 +86,8 @@ in_menu: true
 </table>
 
 
+##### 
 
-##### Accompagnement digital
-Conception et mise en œuvre d'ateliers numériques  
-Connaissances en ergonomie web et UX design  
-Gestion de projets  
-##### Web 
-HTML5/CSS3/PHP/SQL/JS  
-P5/Wordpress/Shopify  
-##### Bureautique
-LibreOffice - Microsoft Office  
-Outils internet courants 
-##### Marketing digital
-SEO/SEA
-Marketing Automation  
-(Marketing Cloud)  
-UI/UX  
-Rédaction Web  
-Audit de sites  
-##### Anglais
-C1 (score TOEIC 965) 
 
 
 
