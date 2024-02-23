@@ -3,6 +3,9 @@ title: "Contact"
 order: 4
 in_menu: true
 ---
-Pour me contacter : 
-linkedin
-mail 
+Pour me contacter que ce soit pour m'envoyer des fleurs, des gâteaux, des cartes postales ou des demandes d'infos, deux manières :  
+[Linkedin](https://www.linkedin.com/in/gauthier-dubuquoy/)  
+ou bien par mail :  
+[gauthier@dubuquoy.fr](mailto:gauthier@dubuquoy.fr)
+
+Au plaisir de vous lire :) 
