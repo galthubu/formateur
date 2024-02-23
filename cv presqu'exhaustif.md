@@ -29,37 +29,37 @@ in_menu: true
     </tr>
     <tr>
       <td class="parm">StableDiffusion</td>
-      <th>Marketing Digital</th>
+      <th class="pinkish">Marketing Digital</th>
       <td class="parm">Twine</td>
     </tr>
     <tr>
       <td class="parm">Krita</td>
-      <td>SEO/SEA</td>
+      <td class="pinkish">SEO/SEA</td>
       <td class="parm">Renpy</td>
     </tr>
     <tr>
       <td class="parm">BDNF</td>
-      <td>Marketing Automation</td>
+      <td class="pinkish">Marketing Automation</td>
       <td class="parm">Godot/Dialogic</td>
     </tr>
     <tr>
       <th class="paleblue">Vidéo</th>
-      <td>(Marketing Cloud)</td>
+      <td class="pinkish">(Marketing Cloud)</td>
       <th class="paleblue">Accompagnement digital</th>
     </tr>
     <tr>
       <td class="paleblue">Shotcut</td>
-      <td>UI/UX</td>
+      <td class="pinkish">UI/UX</td>
       <td class="paleblue">Conception et mise en œuvre d'ateliers numériques</td>
     </tr>
     <tr>
       <td class="paleblue">AfterEffects</td>
-      <td>Rédaction Web</td>
+      <td class="pinkish">Rédaction Web</td>
       <td class="paleblue">Connaissances en ergonomie web et UX design</td>
     </tr>
     <tr>
       <td class="paleblue">Kdenlive</td>
-      <td>Audit de sites</td>
+      <td class="pinkish">Audit de sites</td>
       <td class="paleblue">Gestion de projets</td>
     </tr>
     <tr>
