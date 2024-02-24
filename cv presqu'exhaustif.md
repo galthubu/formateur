@@ -171,6 +171,7 @@ Conservatoire de Musique et de Danse, Nanterre
 2006 - À la Roussel (sans K)  
 2012 - OBscène OBjet  
 2014 - Du technicien informatique comme marabout moderne  
+2015 - Sans titre ni texte  
 2016 - No Strings Attached  
 2017 - Un roman d'amour terrible  
 
