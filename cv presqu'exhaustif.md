@@ -113,8 +113,8 @@ in_menu: true
 2021 : Intervenant-conférencier, Maison Pour Tous des Rancy (Lyon)
 > Expériences Numériques #27 : intervention "Informaticus REX : doit-on subir le numérique ?". Retour d'expérience de simple utilisateur à technicien de maintenance et médiateur numérique : quelques réflexions et anecdotes autour de notre rapport au numérique et aux outils informatiques auxquels nous sommes confrontés chaque jour.
 
-2021 : Testeur, [Burning Sunset](https://burning-sunset.com)
-> Bétatest du jeu _The World After_ : recensement des bugs audios ou vidéos, vérification des enchaînements selon diverses conditions, test des énigmes, etc. 
+2021 : Testeur, [Burning Sunset](https://burning-sunset.com) (Vienne)
+> Bétatest du jeu [_The World After_](https://store.steampowered.com/app/1557700/The_World_After/) : recensement des bugs audios ou vidéos, vérification des enchaînements selon diverses conditions, test des énigmes, etc. 
 
 2018-2020 : Médiateur numérique et technicien de maintenance informatique, Bibliothèques de Vienne (Vienne)  
 > - Conception, mise en œuvre et réalisation d'ateliers numériques pour tous types de public allant de l'initiation aux néophytes absolus des outils numériques de base jusqu'à des ateliers de perfectionnement de PAO (Scribus par exemple) en passant par des expérimentations de type "Labo d'introduction au développement de jeux vidéos" via médiations numériques autour de moteurs comme [AGS](https://www.adventuregamestudio.co.uk/), [Renpy](https://www.renpy.org/) ou [Twine](https://twinery.org/).
