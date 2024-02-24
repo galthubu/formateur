@@ -101,7 +101,7 @@ in_menu: true
 2022-2023 : Chargé de communication, [JdLL](https://jdll.org/) (Journées du Logiciel Libre) (Lyon)
 > - Conception et réalisations de visuels, textes, affiches, flyers et mockups
 > - _Design_, conception et mise en œuvre de goodies (autocollants, hoodies, t-shirt, jeu de carte à collectionner)
-> - Participation au community management
+> - Participation au _community management_
 
 2022 : Médiateur numérique, Maison Pour Tous des Rancy (Lyon)
 > Expériences Numériques #28 : Conception, mise en œuvre et réalisation d'un atelier BDNF pour tous publics : ou comment créer une bande dessinée en quelques clics avec le corpus fourni ou ses propres images.
@@ -122,10 +122,10 @@ in_menu: true
 > - Recueil, prises de vue, réalisation et montage de témoignages de viennois et d'habitants du bassin viennois autour du jeu pour l'exposition participative "Jeu me souviens"
 > - Prises de vue et montage de _booktubes_ par les collégiens du bassin viennois participant au prix Alizée, prix littéraire jeune public local
 > - Assistance utilisateurs pour les usagers de l'EPN ou les membres de l'équipe
-> - Maintenance poste de travail, création d'utilisateurs LDAP, sauvegardes et vérifications, mises à jour systèmes et logicielles 
+> - Maintenance poste de travail, création d'utilisateurs LDAP, sauvegardes et vérifications, mises à jour systèmes et logicielles... 
 
 2017-2018 : Technicien informatique, Expectra (Lyon)
-> Missions diverses de technicien de proximité : câbles et recâblages de postes et de parcs, réaménagements de sites (physiques) et câble management...
+> Missions diverses de technicien de proximité : câbles et recâblages de postes et de parcs, réaménagements de sites (physiques) et _câble management_...
 
 2017 : Intégrateur/Développeur Web, Unyty (Lyon) - stage
 > Débug JS, corrections CSS
