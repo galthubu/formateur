@@ -135,7 +135,7 @@ in_menu: true
 
 2014 : Médiateur numérique et technicien de maintenance informatique
 > - Assistance utilisateurs de l'EPN et des membres de l'équipe
-> - Maintenance informatique de proximité, intervention en proximité ou en distanciel, diagnostic et résolution de pannes courantes, diagnostic pannes réseau, recâblage et sertissage RJ45...
+> - Maintenance informatique, intervention en proximité ou en distanciel, diagnostic et résolution de pannes courantes, diagnostic pannes réseau, recâblage et sertissage RJ45...
 
 2011-2013 : Intérim tertiaire - missions diverses via Adecco (Paris)
 > Médiation numérique occasionnelle, formation utilisateurs final lors d'une migration de parc mobile
