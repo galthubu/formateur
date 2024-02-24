@@ -9,7 +9,7 @@ Me présentant comme **simple utilisateur**, je tente de déconstruire d'emblée
 
 J'alterne courts apports théoriques et travaux pratiques. Je tente aussi de les autonomiser dans leurs recherches documentaires.
 
-J'utilise souvent dans mon diaporama d'ouverture un [_Knot_](https://www.52walker.com/library/laing-r-d-knots-gal) d'R. D. Laing :
+J'utilise souvent dans mon diaporama d'ouverture un des [_Knots_](https://www.52walker.com/library/laing-r-d-knots-gal) d'R. D. Laing :
 > “If I don't know I don't know, I think I know.
 If I don't know I know, I think I don't know.” 
 
