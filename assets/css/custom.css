@@ -2,6 +2,10 @@
     --couleur-primaire : #661cb0;
 }
 
+body {
+  background: linear-gradient(to bottom right, #661cb0, #cda8e3);
+}
+
 footer{
     visibility: hidden;
 }
