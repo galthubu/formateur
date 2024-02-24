@@ -11,10 +11,6 @@ a {
   color: white;
 }
 
-footer{
-    visibility: hidden;
-}
-
 th, td {
   padding: 0.8vh;
   text-align: center;
