@@ -90,15 +90,15 @@ in_menu: true
 > Module PAO
 > - Introduction aux fondamentaux GIMP et Scribus pour réalisation d'affiches ou de flyers
 
-2020 à ce jour : Président de l'association des Psaumes du hasard
+2020 à ce jour : Président de l'association _Les Psaumes du Hasard_
 > Stratégie digitale (en fin de gestation), activités éditoriales (conception, construction et rédaction du site), relations auteurs, conseils stylistiques (dont _grammar nazi_), PAO, _design_ de certaines couvertures, conception des produits dérivés, relations extérieures...
 
-2023 : Photographie plateau, Burning Sunset (Vienne)
+2023 : Photographie plateau, [Burning Sunset](https://burning-sunset.com) (Vienne)
 
 2023 : Médiateur numérique, Maison Pour Tous des Rancy (Lyon)
 > Expériences Numériques #29 : Conception, mise en œuvre et réalisation d'un atelier Stable-Diffusion pour tous publics : expliquer le fonctionnement de ces IA génératives et les tester, initiation au _prompt engineering_
 
-2022-2023 : Chargé de communication, JdLL (Journées du Logiciel Libre) (Lyon)
+2022-2023 : Chargé de communication, [JdLL](https://jdll.org/) (Journées du Logiciel Libre) (Lyon)
 > - Conception et réalisations de visuels, textes, affiches, flyers et mockups
 > - _Design_, conception et mise en œuvre de goodies (autocollants, hoodies, t-shirt, jeu de carte à collectionner)
 > - Participation au community management
@@ -114,7 +114,7 @@ in_menu: true
 > Expériences Numériques #27 : intervention "Informaticus REX : doit-on subir le numérique ?". Retour d'expérience de simple utilisateur à technicien de maintenance et médiateur numérique : quelques réflexions et anecdotes autour de notre rapport au numérique et aux outils informatiques auxquels nous sommes confrontés chaque jour.
 
 2018-2020 : Médiateur numérique et technicien de maintenance informatique, Bibliothèques de Vienne (Vienne)  
-> - Conception, mise en œuvre et réalisation d'ateliers numériques pour tous types de public allant de l'initiation aux néophytes absolus des outils numériques de base jusqu'à des ateliers de perfectionnement de PAO (Scribus par exemple) en passant par des expérimentations de type "Labo d'introduction au développement de jeux vidéos" via médiations numériques autour de moteurs comme AGS, Renpy ou Twine.
+> - Conception, mise en œuvre et réalisation d'ateliers numériques pour tous types de public allant de l'initiation aux néophytes absolus des outils numériques de base jusqu'à des ateliers de perfectionnement de PAO (Scribus par exemple) en passant par des expérimentations de type "Labo d'introduction au développement de jeux vidéos" via médiations numériques autour de moteurs comme [AGS](https://www.adventuregamestudio.co.uk/), [Renpy](https://www.renpy.org/) ou [Twine](https://twinery.org/).
 > - Médiations culturelles autour du numérique et de la fiction interactive, histoire(s) du jeu vidéo, démonstration et exposition d’œuvres du patrimoine vidéoludique
 > - Recueil, prises de vue, réalisation et montage de témoignages de viennois et d'habitants du bassin viennois autour du jeu pour l'exposition participative "Jeu me souviens"
 > - Prises de vue et montage de _booktubes_ par les collégiens du bassin viennois participant au prix Alizée, prix littéraire jeune public local
@@ -135,13 +135,13 @@ in_menu: true
 > - Maintenance informatique de proximité, intervention en proximité ou en distanciel, diagnostic et résolution de pannes courantes, diagnostic pannes réseau, recâblage et sertissage RJ45...
 
 2011-2013 : Intérim tertiaire - missions diverses via Adecco (Paris)
-> médiation numérique occasionnelle, formation utilisateurs final lors d'une migration de parc mobile
+> Médiation numérique occasionnelle, formation utilisateurs final lors d'une migration de parc mobile
 
-2009-2010 : Assistant de réalisation artistique, "Itineracy" de l'artiste Tania Ruiz (Malmö/Paris)
-> via AfterEffects, stabilisation de travelings horizontaux filmés dans le monde entier depuis trains et bateaux
+2009-2010 : Assistant de réalisation artistique, ["Itineracy"](http://itineracy.free.fr/) de l'artiste Tania Ruiz (Malmö/Paris)
+> Via AfterEffects, stabilisation de travelings horizontaux filmés dans le monde entier depuis trains et bateaux
 
 2006-2009 : Assistant monteur, Ichneumon Productions et Métazone TV (Vincennes/Paris)
-> - montage de PADs dont celui de 9h pour la Nuit Blanche 2007 "Icônoclaste" de la mairie du 4e arrondissement de Paris
+> - montage de PADs dont celui de 9h pour la Nuit Blanche 2007 "Iconoclaste" de la mairie du 4e arrondissement de Paris
 > - montage du sujet "Ben parle de la Demeure du Chaos de Thierry Ehrmann"
 
 1999 : Composition d'une partie de la musique de scène de "Toupifolia", conte chorégraphique jeune public.
