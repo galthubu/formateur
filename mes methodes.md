@@ -42,4 +42,4 @@ La raison en est très simple : outre le fait que beaucoup de valeurs du Libre m
 
 ### Des idées ?
 
-Si vous avez d'autres idées d'outils ou d'ateliers, ou même des besoins particuliers et que mes méthodes et valeurs vous intéressent, n'hésitez pas à [me contacter](https://galthubu.github.io/formateur/contact.html). 
+Si vous avez d'autres idées d'outils ou d'ateliers, ou même des besoins particuliers et que mes méthodes et valeurs vous intéressent, n'hésitez pas à [me contacter](https://www.dubuquoy.fr/contact.html). 
