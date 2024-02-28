@@ -20,7 +20,7 @@ J'aime faire _"des trucs"_ avec le numérique (livres, dessins, BD, sons, musiqu
 
 Je me définis et reste avant tout **utilisateur**, avec juste quelques années de pratiques d'avance et une (quasi) insatiable curiosité, une irrépressible envie de continuer à explorer la _res numerica_. Le truc, c'est de tenter d'embrasser le numérique dans son ensemble, dans tous ses aspects et présences dans nos vies, du micro au macro. Ce n'est pas simple. Et j'ai l'impression que le terme "informatique" me limiterait au pur fonctionnement technique des machines et programmes. Alors qu'il faut aussi (re)mettre l'humain au cœur de cet imbroglio.
 
-![ponctuation graphique abstraite]({% link images/ponctGraph.png %})
+<img src="images/ponctGraph.png" alt="ponctuation graphique abstraite" class="imgPunct" />
 
 ### Et maintenant ?
 
