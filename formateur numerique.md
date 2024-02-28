@@ -38,4 +38,6 @@ En deux ans de formateur numérique freelance, j'ai pu participer à l'animation
 
 La méthode reste la même : envelopper le tout dans de la culture numérique au sens plus large : transversalité, enjeux, nécessité d'apprendre, savoir-faire, savoir-être, savoir-devenir.
 
-Je recroise encore parfois certains anciens apprenants. Ils sont heureux d'avoir croisé ma route. Et moi la leur. 
+Je recroise encore parfois certains anciens apprenants. Ils sont heureux d'avoir croisé ma route. Et moi la leur.  
+
+<img src="images/ponctGraph3.png" alt="Ponctuation graphique abstraite" class="imgPunct3" /> 
