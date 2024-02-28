@@ -13,6 +13,8 @@ Si tel est le cas, [discutons](https://www.dubuquoy.fr/contact.html).
 
 Formateur freelance depuis 2022, ma pratique de la médiation numérique et de la transmission de savoir remonte toutefois à _légèrement_ plus que deux ans.
 
+<img src="images/ponctGraph.png" alt="ponctuation graphique abstraite" class="imgPunct" />
+
 ### Mais pourquoi formateur "numérique" ?
 
 Bien que je sois passé par la case (et quelques diplômes en lien avec le numérique, cf [CV](https://www.dubuquoy.fr/cv%20presqu'exhaustif.html)) _Maintenance Informatique et Assistance Utilisateurs_, je me présente en général à mes apprenants avant tout comme un **utilisateur** d'outils numériques. 
