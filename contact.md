@@ -12,4 +12,4 @@ ou bien par mail :
 
 Au plaisir de vous lire :)  
 
-![Illustrations figuratives des symboles du logiciel libre]({% link images/TentativeSymbLibres60%.png %}) 
+<img src="images/ponctGraph.png" alt="ponctuation graphique abstraite" class="imgPunct" /> 
