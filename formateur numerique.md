@@ -18,6 +18,8 @@ J'aime faire _"des trucs"_ avec le numérique (livres, dessins, BD, sons, musiqu
 
 Je me définis et reste avant tout **utilisateur**, avec juste quelques années de pratiques d'avance et une (quasi) insatiable curiosité, une irrépressible envie de continuer à explorer la _res numerica_. Le truc, c'est de tenter d'embrasser le numérique dans son ensemble, dans tous ses aspects et présences dans nos vies, du micro au macro. Ce n'est pas simple. Et j'ai l'impression que le terme "informatique" me limiterait au pur fonctionnement technique des machines et programmes. Alors qu'il faut aussi (re)mettre l'humain au cœur de cet imbroglio.
 
+![ponctuation graphique abstraite]({% link images/ponctGraph.png %})
+
 ### Et maintenant ?
 
 Je n'ai pu que constater tout au long de mon itinéraire ~~chaotique~~ atypique qu'il y avait un réel et fort besoin de formateurs et formations numériques en France. Alors je me suis lancé en indépendant. Mon parcours et mes pratiques parallèles me permettent de proposer un plutôt large panel d'interventions. Chaque session me permet de tester de nouvelles méthodes ou outils de transmission, de nouveaux TP, et je m'adapte sans cesse à mes apprenants. Je suis transparent avec eux. Et si une techno ou un outil en particulier les intéresse et que je ne la ou le connais pas, je le leur dis, et on découvre ensemble. L'important est de les autonomiser, de leur transmettre plus que des pratiques à reproduire en copier/coller, leur faire intégrer une méthodologie.
