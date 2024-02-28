@@ -28,7 +28,7 @@ Je n'ai pu que constater tout au long de mon itinéraire ~~chaotique~~ atypique 
 
 De mon passage en dev et mes pratiques de fictions interactives, me restent la logique, l'appétence, l'adaptabilité et la faculté aussi bien de réaliser ce genre de mini-sites (merci [Scribouilli](https://scribouilli.org/), cf [Mes méthodes](https://www.dubuquoy.fr/mes%20methodes.html) pour plus d'infos) que des Wordpress ou tester d'autres bibliothèques et/ou CMS pour initier mes apprenants à des technologies ou méthodes qui pourraient les intéresser.
 
-![ponctuation graphique abstraite]({% link images/ponctGraph.png %})
+<img src="images/ponctGraph.png" alt="ponctuation graphique abstraite" class="imgPunct" />
 
 ### Maintenir le contact humain
 
