@@ -193,7 +193,7 @@ Conservatoire de Musique et de Danse, Nanterre
 2003 - **Une charogne** (texte de Charles Baudelaire)  
 2003 - **Pornography Poésie I** (texte d'Isidore Ducasse)  
 2004 - **Piotr** (d'après des photos de [Valery Assénat](https://www.instagram.com/valeryassenat/))  
-2005 - **(t)éléphantaisie** (brie sait) (texte de Jean-Pierre Brisset)  
+2005 - **(t)éléphantaisie (brie sait)** (texte de Jean-Pierre Brisset)  
 2006 - **R comme...** (texte de Jean-Pierre Brisset)  
 2006 - **Confusion**  
 2007 - **De la surface de Dieu** (texte intégral d'Alfred Jarry)  
