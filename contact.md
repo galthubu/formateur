@@ -13,3 +13,5 @@ ou bien par mail :
 Au plaisir de vous lire :)  
 
 <img src="images/ponctGraph.png" alt="ponctuation graphique abstraite" class="imgPunct" /> 
+
+<img src="images/ponctGraph3.png" alt="Ponctuation graphique abstraite" class="imgPunct3" /> 
