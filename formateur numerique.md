@@ -5,6 +5,8 @@ in_menu: true
 ---
 ### Deux ans sur le papier ; vingt-cinq dans la réalité
 
+![ponctuation graphique abstraite]({% link images/ponctGraph2.png %})
+
 Vous cherchez un formateur numérique capable de s'adapter à de multiples publics et sujets ? Un humain avant tout capable d'entendre son interlocuteur et d'adapter son discours et ses interventions aux spécificités de chacun ?
 
 Si tel est le cas, [discutons](https://www.dubuquoy.fr/contact.html).
