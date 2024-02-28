@@ -3,7 +3,7 @@ title: "Formateur numérique"
 order: 1
 in_menu: true
 ---
-![ponctuation graphique abstraite]({% link images/ponctGraph2.png %})
+<img src="images/ponctGraph2.png" alt="ponctuation graphique abstraite" class="imgPunct2" />
 
 ### Deux ans sur le papier ; vingt-cinq dans la réalité
 
