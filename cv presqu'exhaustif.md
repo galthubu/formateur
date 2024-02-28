@@ -197,4 +197,6 @@ Conservatoire de Musique et de Danse, Nanterre
 2006 - **R comme...** (texte de Jean-Pierre Brisset)  
 2006 - **Confusion**  
 2007 - **De la surface de Dieu** (texte intégral d'Alfred Jarry)  
-2007 - **Théo AM (version 2 part 1)** 
+2007 - **Théo AM (version 2 part 1)**  
+
+<img src="images/ponctGraph3.png" alt="Ponctuation graphique abstraite" class="imgPunct3" /> 
