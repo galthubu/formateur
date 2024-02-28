@@ -3,6 +3,8 @@ title: "CV presqu'exhaustif"
 order: 3
 in_menu: true
 ---
+<img src="images/ponctGraph2.png" alt="ponctuation graphique abstraite" class="imgPunct2" />
+
 <h3>Compétences</h3>
 <table>
   <colgroup span="3"></colgroup>
