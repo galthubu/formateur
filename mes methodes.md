@@ -21,9 +21,13 @@ Si je ne sais pas que je sais, je pense que je ne sais pas."
 
 Mes apprenants ne comprennent pas forcément tout de suite pourquoi je leur donne cette citation. Mais sur des formations longues, je leur remets la _slide_ parfois à un moment pertinent, plus tardif. Des yeux s'éclairent alors, des regards s'illuminent et des sourires apparaissent en même temps qu'un hochement de tête se laisse percevoir.
 
+<img src="images/ponctGraph.png" alt="ponctuation graphique abstraite" class="imgPunct" />
+
 ### Transversalité
 
 Au-delà des aspects techniques assez classiques dans les formations que j'ai pu animer (comment fonctionne un ordinateur, ses composants, son OS, les logiciels, etc), j'aime bien aussi faire des TP qui ont l'air de récréations. En fonction des envies et centres d'intérêts des apprenants, ça peut être prendre en main des fonctions de base de Gimp ou Scribus, explorer LibreOffice, le comparer à Office, les forcer à se confronter à des logiciels et interfaces inconnues en repérant davantage les fonctionnalités que les emplacements dans une interface ou une autre. Mon but est de faire tout, sauf des utilisateurs captifs.
+
+<img src="images/ponctGraph.png" alt="ponctuation graphique abstraite" class="imgPunct" />
 
 ### Outils courants
 
@@ -36,11 +40,15 @@ Récemment, souhaitant introduire le _markdown_ auprès de mes apprenants _Techn
 - introduction au CSS pour _pimper_ tout ça
 - et passage au HTML lorsque le _markdown_ ne suffit plus à réaliser une idée précise
 
+<img src="images/ponctGraph.png" alt="ponctuation graphique abstraite" class="imgPunct" />
+
 ### Sensibilité libriste
 
 Toujours dans cette idée, cette envie, ce sacerdoce voire cette nécessité de ne pas participer à la fabrication d'utilisateurs captifs, je privilégie dans mes interventions les technologies open-source et les logiciels libres. J'ai ainsi pu faire découvrir et faire installer à mes apprenants des outils tels que NextCloud, et quelques plugins pour leur démontrer par la pratique que d'autres clouds que ceux des GAFAMs sont possibles. 
 
 La raison en est très simple : outre le fait que beaucoup de valeurs du Libre me parlent, je ne souhaite pas que mes apprenants, si je les formais sur des technologies ou logiciels propriétaires se retrouvent bloqués ensuite devant un dilemme moral : dois-je pirater ou acheter le logiciel _machin_ que j'avais bien aimé utiliser pendant la formation ?
+
+<img src="images/ponctGraph.png" alt="ponctuation graphique abstraite" class="imgPunct" />
 
 ### Des idées ?
 
