@@ -3,6 +3,8 @@ title: "Mes méthodes"
 order: 2
 in_menu: true
 ---
+<img src="images/ponctGraph2.png" alt="ponctuation graphique abstraite" class="imgPunct2" />
+
 ### Horizontalité
 
 Me présentant comme **simple utilisateur**, je tente de déconstruire d'emblée la tentation d'être perçu comme _"professeur"_. Je ne suis pas professeur, je ne l'ai jamais été et n'aspire pas à le devenir. Je suis formateur, médiateur, je sais que je ne sais pas, je peux me tromper et j'invite mes apprenants à accepter de se tromper. C'est le meilleur moyen d'apprendre.
