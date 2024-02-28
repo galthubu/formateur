@@ -5,13 +5,13 @@ in_menu: true
 ---
 <img src="images/ponctGraph2.png" alt="ponctuation graphique abstraite" class="imgPunct2" />
 
-### Deux ans sur le papier ; vingt-cinq dans la réalité
+### Deux ans sur le papier ; bientôt vingt-cinq dans la réalité
 
 Vous cherchez un formateur numérique capable de s'adapter à de multiples publics et sujets ? Un humain avant tout capable d'entendre son interlocuteur et d'adapter son discours et ses interventions aux spécificités de chacun ?
 
 Si tel est le cas, [discutons](https://www.dubuquoy.fr/contact.html).
 
-Formateur freelance depuis 2022, ma pratique de la médiation numérique et de la transmission de savoir remonte toutefois à _légèrement_ plus que deux ans.
+Formateur freelance depuis 2022, ma pratique de la médiation numérique et de la transmission de savoir remonte toutefois à _légèrement_ plus que deux ans (approximativement le début des années 2000).
 
 <img src="images/ponctGraph.png" alt="ponctuation graphique abstraite" class="imgPunct" />
 
