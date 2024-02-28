@@ -10,4 +10,6 @@ Pour me contacter que ce soit pour m'envoyer des fleurs, des gâteaux, des carte
 ou bien par mail :  
 [gauthier@dubuquoy.fr](mailto:gauthier@dubuquoy.fr)
 
-Au plaisir de vous lire :) 
+Au plaisir de vous lire :)  
+
+![Illustrations figuratives des symboles du logiciel libre]({% link images/TentativeSymbLibres60%.png %}) 
