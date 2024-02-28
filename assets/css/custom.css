@@ -53,6 +53,6 @@ img {
   margin-right: auto;
 }
 
-#imgHome {
+#imgHome, .imgPunct {
   width: 40%;
 }
