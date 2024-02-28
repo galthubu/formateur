@@ -77,6 +77,8 @@ in_menu: true
   </tbody>
 </table>
 
+<img src="images/ponctGraph.png" alt="ponctuation graphique abstraite" class="imgPunct" />
+
 ### Expériences professionnelles et associatives
 
 2022 à ce jour : Formateur numérique freelance  
@@ -151,6 +153,8 @@ in_menu: true
 
 1999 : Composition d'une partie de la musique de scène de "Toupifolia", conte chorégraphique jeune public.
 
+<img src="images/ponctGraph.png" alt="ponctuation graphique abstraite" class="imgPunct" />
+
 ### Formations
 
 **2021-2022 - Bachelor "Chef de projet web et stratégies digitales" (Niveau II)**  
@@ -163,6 +167,8 @@ Doranco, Bagnolet
 Université Paris VIII, Saint-Denis  
 **1991-1998 - Classe de composition de musique électroacoustique**  
 Conservatoire de Musique et de Danse, Nanterre
+
+<img src="images/ponctGraph.png" alt="ponctuation graphique abstraite" class="imgPunct" />
 
 ### Auto-Éditions
 2001 - Tentative d'inventaire pour une cérémonie itérative  
@@ -179,6 +185,8 @@ Conservatoire de Musique et de Danse, Nanterre
 2015 - Sans titre ni texte  
 2016 - No Strings Attached  
 2017 - Un roman d'amour terrible  
+
+<img src="images/ponctGraph.png" alt="ponctuation graphique abstraite" class="imgPunct" />
 
 ### Courts-métrages
 2002 - **Théo AM** (don't blink)  
