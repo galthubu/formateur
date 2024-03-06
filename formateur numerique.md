@@ -40,4 +40,4 @@ La méthode reste la même : envelopper le tout dans de la culture numérique au
 
 Je recroise encore parfois certains anciens apprenants. Ils sont heureux d'avoir croisé ma route. Et moi la leur.  
 
-<img src="images/ponctGraph3.png" alt="Ponctuation graphique abstraite" class="imgPunct3" /> 
+<a href="#top" ><img src="images/ponctGraph3.png" alt="Ponctuation graphique abstraite" class="imgPunct3" /></a> 
