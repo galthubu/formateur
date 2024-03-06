@@ -107,7 +107,7 @@ in_menu: true
 
 2022-2023 : Chargé de communication, [JdLL](https://jdll.org/) (Journées du Logiciel Libre) (Lyon)
 > - Conception et réalisations de visuels, textes, affiches, flyers et mockups
-> - _Design_, conception et mise en œuvre de goodies (autocollants, hoodies, t-shirt, jeu de carte à collectionner)
+> - _Design_, conception et mise en œuvre de [goodies](https://www.helloasso.com/associations/aldil/collectes/jdll-2023-cultures-en-partage) (autocollants, hoodies, t-shirt, jeu de carte à collectionner)
 > - Participation au _community management_
 
 2022 : Médiateur numérique, Maison Pour Tous des Rancy (Lyon)
