@@ -94,6 +94,9 @@ in_menu: true
 > Module PAO
 > - Introduction aux fondamentaux GIMP et Scribus pour réalisation d'affiches ou de flyers
 
+> Module Photoshop
+> - Introduction aux fondamentaux : formats de fichiers, outils de détourage, masques de fusion, notions de composition
+
 2020 à ce jour : Président de l'association _Les Psaumes du Hasard_
 > Stratégie digitale (en fin de gestation), activités éditoriales (conception, construction et rédaction du site), relations auteurs, conseils stylistiques (dont _grammar nazi_), PAO, _design_ de certaines couvertures, conception des produits dérivés, relations extérieures...
 
