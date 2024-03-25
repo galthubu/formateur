@@ -65,3 +65,7 @@ img {
   width: 15%;
   padding-top: 1em;
 }
+
+nav > ul > li {
+  text-align : center;
+}
