@@ -66,6 +66,6 @@ img {
   padding-top: 1em;
 }
 
-header > .container {
+header > div > nav {
   align-items : center;
 }
