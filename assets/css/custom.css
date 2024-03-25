@@ -65,7 +65,3 @@ img {
   width: 15%;
   padding-top: 1em;
 }
-
-header + div {
-  justify-content: space-evenly !important;
-}
