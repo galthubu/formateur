@@ -66,6 +66,6 @@ img {
   padding-top: 1em;
 }
 
-.container {
+nav > .container {
   text-align : center;
 }
